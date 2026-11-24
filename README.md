@@ -15,8 +15,7 @@ Stack = [ "Angular", "Flask", "MariaDB/MySQL" ]
 
   ```
 
-![ejsosa12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ejsosa12&theme=gruvbox&hide_border=true)
-
+![EJ-PJ's Streak](https://github-readme-streak-stats.herokuapp.com/?user=EJ-PJ&theme=gruvbox&hide_border=true)
 
 ## Skills
 
